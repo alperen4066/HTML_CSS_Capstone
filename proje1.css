@@ -1,0 +1,53 @@
+body{
+    background-color:bisque;
+    color: white;
+}
+#header{
+    border: 1px solid red;
+    width: 100%;
+    margin: auto;
+    background-color: #111;
+}
+
+#headerstop{
+    margin: auto;
+    text-align: center;
+}
+a{
+    color: white;
+   
+}
+
+
+
+
+#main{
+    border: 1px solid red;
+    overflow: auto;
+}
+
+#img1{
+    float: left;
+    width: auto;
+    margin: auto;
+
+
+   
+}
+
+#mainP{
+text-align: justify;
+padding: 0px 30px 20px;
+font-family: Arial;
+font-size: 16px;
+color: #111;
+line-height: 24px;
+}
+
+#mainH1{
+    padding: 30px 30px 30px;
+    font-family: Arial;
+    font-size: 50px;
+    color: #111;
+    line-height: 44px;
+}
